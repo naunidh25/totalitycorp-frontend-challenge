@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Totality Corp Frontend Challenge -- E-Commerce Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Routing for this project was done using (react-router-dom).
+For the styling SCSS styling sheets are used.
+The materials/icons are imported from MUI Library.
+For the Data I have used data.js file to add some Mock-data for the application.
+The main frontend library used is React, in which I have used JSX for Pages and Components.
+
+
 
 ## Available Scripts
 
